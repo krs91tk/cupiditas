@@ -101,8 +101,8 @@
       {
         "id": 1,
         "type": "positive-ability",
-        "title": "予知能力",
-        "description": "状況を見て、ある程度未来に起こるであろうことが予想できる"
+        "title": "キレ",
+        "description": "変化球の曲がり始めが遅くなる。"
       },
       {
         "id": 2,
@@ -113,8 +113,8 @@
       {
         "id": 3,
         "type": "positive-ability",
-        "description": "何でもかんでも基本、Vimでする。IDE？なんですかそれは",
-        "title": "Vim職人"
+        "description": "相手のパワーを下げ、打球が飛びにくくなる。",
+        "title": "重い球"
       },
       {
         "id": 4,
