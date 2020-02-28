@@ -107,32 +107,32 @@
       {
         "id": 2,
         "type": "positive-ability",
-        "description": "組織の中で、コードのレビュアーや技術的な課題について意見を聞かれる場面が多い",
-        "title": "テックリード"
-      },
-      {
-        "id": 3,
-        "type": "positive-ability",
         "description": "相手のパワーを下げ、打球が飛びにくくなる。",
         "title": "重い球"
       },
       {
+        "id": 3,
+        "type": "positive-ability",
+        "description": "失投が真ん中付近に行く確率が低くなる。",
+        "title": "逃げ球"
+      },
+      {
         "id": 4,
-        "type": "personality",
-        "description": "業務で生じる様々な作業を基本的にShellで解決する。Shellがあれば何でもできる。",
-        "title": "Shell芸人"
+        "type": "positive-ability",
+        "description": "6回以降に発動。先発投手の球速・変化量・コントロールが上がる。",
+        "title": "尻上がり"
       },
       {
         "id": 5,
-        "type": "positive-ability",
-        "description": "どんなときでも明るく、楽しそうに仕事を行う",
-        "title": "超ポジティブ"
+        "type": "negative-ability",
+        "description": "牽制が上手くない",
+        "title": "牽制"
       },
       {
         "id": 6,
-        "type": "negative-ability",
-        "description": "遅刻することが多い",
-        "title": "遅刻魔"
+        "type": "positive-ability",
+        "description": "相手のパワーを下げ、打球が飛びにくくなる。",
+        "title": "重い球"
       },
       {
         "id": 7,
