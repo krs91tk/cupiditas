@@ -1,12 +1,12 @@
 {
   "point-skill":[
     {
-      "score":"S",
-      "border":90
+      "score":"C",
+      "border":60
     },
     {
-      "score":"A",
-      "border":80
+      "score":"S",
+      "border":90
     },
     {
       "score":"B",
