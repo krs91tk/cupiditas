@@ -9,12 +9,12 @@
   },
   "point-skill": [
     {
-      "skill-name": "プログラム",
-      "skill-point": 100
+      "skill-name": "コントロール",
+      "skill-point": 60
     },
     {
-      "skill-name": "データベース",
-      "skill-point": 80
+      "skill-name": "スタミナ",
+      "skill-point": 90
     },
     {
       "skill-name": "ネットワーク",
