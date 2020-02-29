@@ -1,10 +1,10 @@
 {
   "name": "Takuya Karasuyama",
-  "belong-to": "株式会社エンジニア",
+  "belong-to": "西宮北-青学大",
   "title": "投手",
   "avatar": "./img/myavator.jpg",
   "style": {
-    "desktop": "右投げ右打ち",
+    "desktop": "右投右打",
     "mobile": "スリークォーター"
   },
   "point-skill": [
@@ -17,29 +17,29 @@
       "skill-point": 90
     },
     {
-      "skill-name": "ネットワーク",
-      "skill-point": 70
-    },
-    {
-      "skill-name": "OS",
-      "skill-point": 60
-    },
-    {
-      "skill-name": "ハードウェア",
-      "skill-point": 50
-    },
-    {
-      "skill-name": "セキュリティ",
+      "skill-name": "ミート",
       "skill-point": 40
     },
     {
-      "skill-name": "ミドルウェア",
-      "skill-point": 20
+      "skill-name": "パワー",
+      "skill-point": 70
+    },
+    {
+      "skill-name": "走力",
+      "skill-point": 60
+    },
+    {
+      "skill-name": "肩力",
+      "skill-point": 90
+    },
+    {
+      "skill-name": "守備力",
+      "skill-point": 50
     }
   ],
   "inherent-ability": {
-    "name": "自分だけのスキル",
-    "description": "ここには自分だけが特有しているスキルを書いて下さい。他の人には真似できないことや、他とは一線を画するものを。"
+    "name": "hoge",
+    "description": "fuga"
   },
   "abilities": {
     "numerical-ability": [
