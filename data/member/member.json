@@ -1,11 +1,11 @@
 {
-  "name": "エンジニア太郎",
+  "name": "Takuya Karasuyama",
   "belong-to": "株式会社エンジニア",
-  "title": "プログラマー",
-  "avatar": "./img/avator-male.png",
+  "title": "投手",
+  "avatar": "./img/myavator.jpg",
   "style": {
-    "desktop": "Mac",
-    "mobile": "Android"
+    "desktop": "右投げ右打ち",
+    "mobile": "スリークォーター"
   },
   "point-skill": [
     {
