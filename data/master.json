@@ -8,6 +8,30 @@
       "score":"A",
       "border":80
     },
+    {
+      "score":"B",
+      "border":70
+    },
+    {
+      "score":"C",
+      "border":60
+    },
+    {
+      "score":"D",
+      "border":50
+    },
+    {
+      "score":"E",
+      "border":40
+    },
+    {
+      "score":"F",
+      "border":20
+    },
+    {
+      "score":"G",
+      "border":1
+    }
   ],
   "abilities": {
     "numerical-ability": [
