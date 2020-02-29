@@ -159,39 +159,39 @@
       },
       {
         "id": 10,
-        "type": "personality",
-        "description": "集団の場では声を上げる立場になることが多い",
-        "title": "ガヤ"
+        "type": "positive-ability",
+        "description": "ストレートと変化球の投球動作が同じになる。",
+        "title": "リリース○"
       },
       {
         "id": 11,
         "type": "positive-ability",
-        "description": "常に情報収集を怠らない",
-        "title": "アンテナ"
+        "description": "球質が重くなり、ピヨリ状態になりにくい。",
+        "title": "闘志"
       },
       {
         "id": 12,
-        "type": "positive-ability",
-        "description": "フランス語を話すことができる",
-        "title": "フランス語"
+        "type": "personality",
+        "description": "この投手をできるだけ完投させるようにする",
+        "title": "完投"
       },
       {
         "id": 13,
         "type": "personality",
-        "description": "Apple製品を盲信している",
-        "title": "Apple信者"
+        "description": "調子に影響されにくい",
+        "title": "調子安定"
       },
       {
         "id": 14,
         "type": "personality",
-        "description": "列思考DBのVerticaを盲信している",
-        "title": "Vertica教徒"
+        "description": "スタミナが尽きたら交代を考え始める",
+        "title": "スタミナ限界"
       },
       {
         "id": 15,
         "type": "positive-ability",
-        "description": "ショートカットキーを極めれば、マウスなんていりません。",
-        "title": "マウスは不要"
+        "description": "テンポよく投げる",
+        "title": "テンポ○"
       },
       {
         "id": 16,
