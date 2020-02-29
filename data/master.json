@@ -68,7 +68,7 @@
       {
         "id": 6,
         "name": "ノビ",
-        "description": "心身の状況にパフォーマンスが左右されるか否か。高いほど安定している。"
+        "description": "ストレートの体感速度が上がる。"
       },
       {
         "id": 7,
@@ -83,12 +83,12 @@
       {
         "id": 9,
         "name": "回復",
-        "description": "物事をアウトプットする力。高いほど自分の知識や考えを世の中に送り出している。"
+        "description": "疲れが早く取れるようになる。"
       },
       {
         "id": 10,
         "name": "安定度",
-        "description": "仕事する上で、リスクを十分にとっているか。高いほどヘッジする能力が高い。"
+        "description": "調子に左右されない。"
       }
     ],
     "special-ability": [
@@ -196,8 +196,8 @@
       {
         "id": 16,
         "type": "personality",
-        "description": "実を言うと、インデントにはSpaceを使いたい",
-        "title": "TabよりSpace"
+        "description": "秋に強い",
+        "title": "秋男"
       },
       {
         "id": 17,
@@ -214,55 +214,55 @@
       {
         "id": 19,
         "type": "personality",
-        "description": "飲み会などの賑やかな場面で盛り上げ役に回ることが多い",
-        "title": "お祭り野郎"
+        "description": "",
+        "title": ""
       },
       {
         "id": 20,
         "type": "personality",
-        "description": "エディタはVimを使用する。Emacsはあまり好きじゃない",
-        "title": "Vim派"
+        "description": "。",
+        "title": ""
       },
       {
         "id": 21,
         "type": "personality",
-        "description": "エディタはEmacsを使用する。Vimはあまり好きじゃない",
-        "title": "Emacs派"
+        "description": "",
+        "title": ""
       },
       {
         "id": 22,
         "type": "positive-ability",
-        "description": "思考回路・意見が論理的に展開されている",
-        "title": "ロジカル"
+        "description": "",
+        "title": ""
       },
       {
         "id": 23,
         "type": "personality",
-        "description": "独り言が多い",
-        "title": "独り言"
+        "description": "",
+        "title": ""
       },
       {
         "id": 24,
         "type": "positive-ability",
-        "description": "裏打ちされた経験で、なかなか真似のできないスキルを発揮する",
-        "title": "職人技"
+        "description": "",
+        "title": ""
       },
       {
         "id": 25,
         "type": "negaposi-ability",
-        "description": "頑固な性格。他人の意見の影響を受けにくい。",
-        "title": "こだわり強い"
+        "description": "",
+        "title": ""
       }
     ],
     "technical-ability": {
       "programing": [
         {
-          "title": "PHP",
-          "description": "PHP言語を使った開発が得意"
+          "title": "Ruby",
+          "description": "Ruby言語を使った開発が得意"
         },
         {
-          "title": "Java",
-          "description": "Java言語を使った開発が得意"
+          "title": "PHP",
+          "description": "PHP言語を使った開発が得意"
         }
       ],
       "database": [
